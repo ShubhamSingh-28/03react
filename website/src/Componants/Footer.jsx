@@ -29,6 +29,11 @@ export default function Footer() {
                                         About
                                     </Link>
                                 </li>
+                                <li>
+                                    <Link to="/Contact" className="hover:underline">
+                                        Contact us
+                                    </Link>
+                                </li>
                             </ul>
                         </div>
                         <div>
